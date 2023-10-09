@@ -15,5 +15,4 @@
 
 ### 📊 Stats:
 ![Kyrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mewchao&show_icons=true&theme=radical)
-### 📊 MyTrophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=mewchao)](https://github.com/ryo-ma/github-profile-trophy)
+
