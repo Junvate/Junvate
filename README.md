@@ -1,4 +1,4 @@
-## 👋  &nbsp;Hi there, I'm junchao! 
+## 👋  &nbsp;Hi there, I'm youjunchao! 
  
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -79,6 +79,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/surapuramakhil"><img src="https://img.shields.io/badge/-Akhil%20Surapuram-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:junchaoyou31@gmail.com"><img src="https://img.shields.io/badge/-Email me-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
