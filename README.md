@@ -1,14 +1,13 @@
 <div align="center">
 
-
-### Junvate
+## Junvate
 
 <p>
-  CS Student at <b>Xiamen University</b><br/>
-  Building software with curiosity and calm.
+  <b>Computer Science @ Xiamen University</b><br>
+  Drummer · Foodie · Explorer
 </p>
 
-<br/>
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/Python-F5F5F7?style=for-the-badge&logo=python&logoColor=111111" />
@@ -18,21 +17,33 @@
   <img src="https://img.shields.io/badge/Docker-F5F5F7?style=for-the-badge&logo=docker&logoColor=111111" />
 </p>
 
-<br/>
-
-<p align="center">
+<p>
   <a href="https://github.com/Junvate">
-    <img src="https://github-readme-stats.vercel.app/api?username=Junvate&show_icons=true&hide_border=true&title_color=111111&icon_color=111111&text_color=555555&bg_color=ffffff00&border_radius=20" height="185" />
-  </a>
-  <a href="https://github.com/Junvate">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junvate&hide_border=true&background=ffffff00&ring=111111&fire=111111&currStreakLabel=111111&statLabels=666666&currStreakNum=222222&sideNums=222222&sideLabels=666666&dates=999999&border_radius=20" height="185" />
+    <img src="https://img.shields.io/badge/GitHub-Junvate-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/Junvate">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Junvate&show_icons=true&hide_border=true&title_color=111111&icon_color=111111&text_color=555555&bg_color=00000000&border_radius=18"
+      height="170"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/Junvate">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Junvate&hide_border=true&background=00000000&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=666666&currStreakNum=222222&sideNums=222222&dates=999999&border_radius=18"
+      height="170"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
 <p>
-  Drummer · Foodie · Explorer
+  <sub>
+    Building quietly, learning deeply, and enjoying the rhythm of life.
+  </sub>
 </p>
 
 </div>
