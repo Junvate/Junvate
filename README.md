@@ -11,8 +11,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-E6C7CC?style=for-the-badge&logo=python&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Java-C8C6E8?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Go-C9D8E8?style=for-the-badge&logo=go&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/React-D8D2C8?style=for-the-badge&logo=react&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Docker-D9E3D7?style=for-the-badge&logo=docker&logoColor=ffffff" />
 </p>
