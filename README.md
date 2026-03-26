@@ -14,13 +14,6 @@
   <img src="https://img.shields.io/badge/Docker-D9E3D7?style=for-the-badge&logo=docker&logoColor=ffffff" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Backend-F5F5F7?style=flat-square&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Interest-Web-F5F5F7?style=flat-square&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Lifestyle-Rhythm%20%26%20Taste-F5F5F7?style=flat-square&logoColor=111111" />
-</p>
-
-### GitHub Snapshot
 
 <p align="center">
   <a href="https://github.com/Junvate">
