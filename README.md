@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&customColorList=0,2,24,30&text=Junvate&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 
-## Junvate
 
-<p><b>Computer Science @ Xiamen University</b></p>
+<p><b>AI @ Xiamen University</b></p>
 <p>Drummer ✦ Foodie ✦ Explorer</p>
-<p><sub>Building thoughtful software with a calm mind.</sub></p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-E6C7CC?style=for-the-badge&logo=python&logoColor=ffffff" />
