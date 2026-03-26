@@ -13,7 +13,7 @@
 ### 👨🏻‍💻 About Me
 
 - 📍 **Location:** Fujian, China
-- 🎓 **Education:** Studying at Fuzhou University
+- 🎓 **Education:** LLMer Studying at XiaMen University
 - 💡 **Interests:** Computer Science, Data Science, Backend Development
 - 🥁 **Hobbies:** Music (Drums) 🌟 Delicious Food 🌟 Travel
 
