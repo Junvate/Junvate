@@ -1,13 +1,20 @@
 <div align="center">
 
-## Junvate ✦
+<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&customColorList=0,2,24,30&text=Junvate&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+
+## Junvate
 
 <p>
-  <b>Computer Science @ Xiamen University</b><br>
-  Drummer · Foodie · Explorer
+  <b>Computer Science @ Xiamen University</b>
 </p>
 
-<p><sub>Minimal, curious, and always building.</sub></p>
+<p>
+  Drummer ✦ Foodie ✦ Explorer
+</p>
+
+<p>
+  <sub>Building thoughtful software with a calm mind.</sub>
+</p>
 
 <br>
 
@@ -18,34 +25,30 @@
 </p>
 
 <p>
-  <a href="https://github.com/Junvate">
-    <img src="https://img.shields.io/badge/GitHub-Junvate-F5F5F7?style=flat-square&logo=github&logoColor=111111" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Backend-EDE7E3?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lifestyle-Rhythm%20%26%20Taste-E8DDE3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend-F5F5F7?style=flat-square&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Interest-Web-F5F5F7?style=flat-square&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Lifestyle-Rhythm%20%26%20Taste-F5F5F7?style=flat-square&logoColor=111111" />
 </p>
 
-<p><sub>GitHub Snapshot</sub></p>
+<br>
+
+### GitHub Snapshot
 
 <p align="center">
   <a href="https://github.com/Junvate">
     <img
       src="https://github-readme-stats.vercel.app/api?username=Junvate&show_icons=true&hide_border=true&title_color=B07D86&icon_color=B07D86&text_color=555555&bg_color=00000000&border_radius=18"
       height="170"
-      alt="GitHub Stats"
     />
   </a>
   <a href="https://github.com/Junvate">
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=Junvate&hide_border=true&background=00000000&ring=B07D86&fire=B07D86&currStreakLabel=B07D86&sideLabels=777777&currStreakNum=333333&sideNums=333333&dates=AAAAAA&border_radius=18"
       height="170"
-      alt="GitHub Streak"
     />
   </a>
 </p>
 
-<p>
-  <sub>Code, rhythm, and a taste for good things.</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=20,24,25,30" />
 
 </div>
