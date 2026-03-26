@@ -1,11 +1,13 @@
 <div align="center">
 
-##  Junvate
+## Junvate ✦
 
 <p>
   <b>Computer Science @ Xiamen University</b><br>
   Drummer · Foodie · Explorer
 </p>
+
+<p><sub>Minimal, curious, and always building.</sub></p>
 
 <br>
 
@@ -19,7 +21,11 @@
   <a href="https://github.com/Junvate">
     <img src="https://img.shields.io/badge/GitHub-Junvate-F5F5F7?style=flat-square&logo=github&logoColor=111111" />
   </a>
+  <img src="https://img.shields.io/badge/Focus-Backend-EDE7E3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lifestyle-Rhythm%20%26%20Taste-E8DDE3?style=flat-square" />
 </p>
+
+<p><sub>GitHub Snapshot</sub></p>
 
 <p align="center">
   <a href="https://github.com/Junvate">
@@ -39,7 +45,7 @@
 </p>
 
 <p>
-  <sub>Building quietly, learning deeply, and enjoying the rhythm of life.</sub>
+  <sub>Code, rhythm, and a taste for good things.</sub>
 </p>
 
 </div>
